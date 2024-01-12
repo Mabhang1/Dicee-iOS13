@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Dicee Banner](Documentation/Dicee%20Swift.jpg)
 
 # Dicee
 
